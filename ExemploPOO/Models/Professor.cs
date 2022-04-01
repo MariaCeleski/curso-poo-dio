@@ -1,5 +1,5 @@
 using System;
-
+// Herança
 namespace ExemploPOO.Models
 {
     public class Professor : Pessoa
